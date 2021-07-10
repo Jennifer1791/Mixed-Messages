@@ -15,10 +15,10 @@ const message10 = "At the moment, in the field of love, it is not the time for c
 
 // Third Part - Message - Lucky Number
 const message11 = "Your lucky number is 56.";
-const message12 = "Your lucky number is 17";
-const message13 = "Your Lucky Number is 34";
-const message14 = "Your Lucky Number is 12";
-const message15 = "Your Lucky Number is 88";
+const message12 = "Your lucky number is 17.";
+const message13 = "Your Lucky Number is 34.";
+const message14 = "Your Lucky Number is 12.";
+const message15 = "Your Lucky Number is 88.";
 
 //Message Arrays
 const message_part1 = [message1, message2,message3,message4,message5];
