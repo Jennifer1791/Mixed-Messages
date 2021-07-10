@@ -32,7 +32,7 @@ function messageGenerator(a,b,c){
     consolidatedMessage.push(a[Math.floor(Math.random()*(a.length-1))]);
     consolidatedMessage.push(b[Math.floor(Math.random()*(b.length-1))]);
     consolidatedMessage.push(c[Math.floor(Math.random()*(c.length-1))]);
-    return console.log("Here's the prediction of your future: \n \n"+ consolidatedMessage.join(' '));    
+    return console.log("Here's the prediction of your future: \n "+ consolidatedMessage.join(' '));    
 };
 
 messageGenerator(message_part1, message_part2, message_part3);
